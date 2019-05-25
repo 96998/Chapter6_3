@@ -35,6 +35,6 @@
         %>
     </tr>
 </table>
-<a href="index.jsp">继续添加</a>
+<a href="/index.jsp">继续添加</a>
 </body>
 </html>
