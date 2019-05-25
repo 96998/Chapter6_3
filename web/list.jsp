@@ -35,6 +35,8 @@
         %>
     </tr>
 </table>
-<a href="/index.jsp">继续添加</a>
+<a href="../index.jsp">继续添加</a>
+<a href="/Chapter6_3_war_exploded/index.jsp">继续添加</a>
+<a href="/">啦啦啦</a>
 </body>
 </html>
